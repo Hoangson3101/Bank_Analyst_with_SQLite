@@ -8,4 +8,6 @@
 5. Analyze the Bank's Portfolio: Combine data from multiple tables to calculate the average daily returns and cumulative returns of the portfolio, and visualize these 
    metrics interactively.
 ## Output
+![Alt text](https://github.com/Hoangson3101/Bank_Analyst_with_SQLite/blob/main/the%20cumulative%20returns%20for%20TCB.png)
 
+https://github.com/Hoangson3101/Bank_Analyst_with_SQLite/blob/main/the%20cumulative%20returns%20for%20TCB.png
