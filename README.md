@@ -9,5 +9,4 @@
    metrics interactively.
 ## Output
 ![Alt text](https://github.com/Hoangson3101/Bank_Analyst_with_SQLite/blob/main/the%20cumulative%20returns%20for%20TCB.png)
-
-https://github.com/Hoangson3101/Bank_Analyst_with_SQLite/blob/main/the%20cumulative%20returns%20for%20TCB.png
+![Alt text](https://github.com/Hoangson3101/Bank_Analyst_with_SQLite/blob/main/visualizes%20the%20bank%20portfolios%20cumulative%20return%20values.png)
